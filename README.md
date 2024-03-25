@@ -1,2 +1,2 @@
-# python-practices-
-python practices  demo
+# python-practice
+> python practices  demo
